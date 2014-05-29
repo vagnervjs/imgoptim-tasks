@@ -1,6 +1,6 @@
 # ImgOptim Tasks
 
-A base to create sprites and optimize images using Grunt
+Tasks to: Optimize images / Create Sprites using Grunt
 
 
 ## Getting Started
@@ -24,7 +24,7 @@ $ cd imgoptim-taks
 ```bash
 $ sudo npm install
 ```
-- Put your images inside src/images (or src/imges/sprites)
+- Put your images inside src/images (or src/images/sprites)
 
 - Just run
 
@@ -35,8 +35,3 @@ $ sudo grunt
 ## License
 
 Code is under [MIT license](http://vagnersantana.mit-license.org) © Vagner Santana.
-
-
-
-
-

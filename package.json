@@ -1,7 +1,7 @@
 {
   "name": "imgoptim-tasks",
   "version": "0.0.1",
-  "description": "Optimize images / Create Sprites",
+  "description": "Tasks to: Optimize images / Create Sprites",
   "homepage": "http://vagnersantana.com",
   "repository": {
     "type": "git",
