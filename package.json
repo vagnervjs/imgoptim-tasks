@@ -12,11 +12,11 @@
     "npm": "1.3.x"
   },
   "dependencies": {
-    "grunt-cli": "0.1.x",
-    "grunt": "~0.4.x",
+    "grunt-cli": "1.2.x",
+    "grunt": "~1.0.x",
     "grunt-imageoptim": "~1.4.1"
   },
   "devDependencies": {
-    "grunt-spritesmith": "~1.26.0"
+    "grunt-spritesmith": "~6.3.1"
   }
 }

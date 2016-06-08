@@ -5,31 +5,40 @@ Tasks to: Optimize images / Create Sprites using Grunt
 
 ## Getting Started
 
-- First, you need to have [Node.JS](http://nodejs.org/) and NPM installed.
+- Dependencies:
+	- [Node.JS](http://nodejs.org/) & NPM
+	- [ImageOptim](https://imageoptim.com)
+	- [ImageAlpha](https://pngmini.com/)
+
 
 - Clone
 
 ```bash
-$ git clone https://github.com/vagnervjs/imgoptim-tasks.git
+git clone https://github.com/vagnervjs/imgoptim-tasks.git
 ```
 
 - Enter in the folder
 
 ```bash
-$ cd imgoptim-taks
+cd imgoptim-tasks
 ```
 
 - Install dependencies
 
 ```bash
-$ sudo npm install
+npm install
 ```
-- Put your images inside src/images (or src/images/sprites)
+
+- Put your images inside `src/images`
+
+- For sprites:
+  - Put your images inside `src/images/sprites`
+  - Uncomment `sprite` task in `Gruntfile.js`
 
 - Just run
 
 ```bash
-$ sudo grunt
+sudo grunt
 ```
 
 ## License
